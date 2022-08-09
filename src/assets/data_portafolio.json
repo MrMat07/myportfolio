@@ -2,43 +2,29 @@
 {
 	"id": "1",
 	"image": "portafolio/portfolio1.jpg",
-	"title": "Proyecto 1",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
+	"title": "Pagina Intech 2.0 Systems [Frontend]",
+	"github": "https://github.com/MrMat07/DiplomaturaFS-UTN/tree/main/Intech%202.0%20Systems%20con%20ReactJS/frontend",
+	"detail":"Página realizada con ReactJS, con secciones estáticas como el Home, Servicios, Galería, etc. Como también, secciones dinámicas como Noticias, Promociones y Contacto."
 },
 {
 	"id": "2",
 	"image": "portafolio/portfolio2.jpg",
-	"title": "Proyecto 2",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
+	"title": "Admin Intech 2.0 Systems [Backend]",
+	"github": "https://github.com/MrMat07/DiplomaturaFS-UTN/tree/master",
+	"detail":"Página de tipo Admin, realizada con NodeJS utilizando Express, Handlebars y Bootstrap. Para el alta de las Novedades y Promociones, que se guardan en una base de datos MySQL. Interactúan con el Frontend mediante una API."
 },
 {
 	"id": "3",
 	"image": "portafolio/portfolio3.jpg",
-	"title": "Proyecto 3",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
+	"title": "Pagina de Pokemon [Frontend]",
+	"github": "https://github.com/MrMat07/DiplomaturaFS-UTN/tree/main/M4-U3/TareaConExpress",
+	"detail":"Página estática echa con Express, Handlebars y Bootstrap."
 },
 {
 	"id": "4",
 	"image": "portafolio/portfolio4.jpg",
-	"title": "Proyecto 4",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
-},
-{
-	"id": "5",
-	"image": "portafolio/portfolio5.png",
-	"title": "Proyecto 5",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
-},
-{
-	"id": "6",
-	"image": "portafolio/portfolio6.jpg",
-	"title": "Proyecto 6",
-	"github": "https://github.com/MrMat07",
-	"demo": "https://github.com/MrMat07"
+	"title": "Pagina de Los Vengadores [Frontend]",
+	"github": "https://github.com/MrMat07/DiplomaturaFS-UTN/tree/main/M2-U4",
+	"detail":"Página estática conexionada con HTML5 y CSS."
 }
 ]

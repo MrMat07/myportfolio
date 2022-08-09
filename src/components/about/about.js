@@ -6,8 +6,8 @@ import { FaUsers } from "react-icons/fa";
 const About = (props) => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <h5>Les comento un poco</h5>
+      <h2>Sobre mi</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -20,30 +20,28 @@ const About = (props) => {
           <div className="about__cards">
             <article className="about__card">
               <BsAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Year Working</small>
+              <h5>Experiencia Laboral</h5>
+              <small>4+ Año en sistemas</small>
             </article>
 
             <article className="about__card">
               <FaUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <h5>Clientes</h5>
+              <small>3+ En Argentina</small>
             </article>
 
             <article className="about__card">
               <BsFolderCheck className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <h5>Proyectos</h5>
+              <small>10+ Completos</small>
             </article>
           </div>
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed eaque
-            deleniti fugit labore, id consequatur repellendus hic voluptates
-            ipsam debitis neque voluptate nemo cupiditate voluptas! Sit quaerat
-            numquam libero dolore.
+          Soy Matias Emanuel Monti, tengo 26 años. Actualmente soy Analista de Comunicación y Colaboración en CONO S.A., donde me dedico a desarrollar aplicaciones con la suite de Microsoft 365.<br/>
+          En mi tiempo libre me dedico a realizar proyectos personales como desarrollador Fullstack.
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Contáctame</a>
         </div>
       </div>
     </section>

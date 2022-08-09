@@ -7,9 +7,9 @@ const Header = (props) => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h5>Hola, yo soy</h5>
         <h1>Matias Monti</h1>
-        <h5 className="text-light">Fullstack Developer</h5>
+        <h5 className="text-light">Desarrollador Fullstack</h5>
         <Cta />
         <HeaderSocial/>
 
@@ -17,7 +17,7 @@ const Header = (props) => {
           <img src={Me} alt="me"></img>
         </div>
 
-        <a href="#contact" className="scroll__down">Scroll Down</a>
+        <a href="#contact" className="scroll__down">Desplazarse hacia abajo</a>
       </div>
     </header>
   );
