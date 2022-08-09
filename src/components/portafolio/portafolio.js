@@ -1,11 +1,4 @@
 import "../../styles/components/pages/portafolio.css";
-import portafolio1 from "../../assets/portfolio1.jpg";
-import portafolio2 from "../../assets/portfolio2.jpg";
-import portafolio3 from "../../assets/portfolio3.jpg";
-import portafolio4 from "../../assets/portfolio4.jpg";
-import portafolio5 from "../../assets/portfolio5.png";
-import portafolio6 from "../../assets/portfolio6.jpg";
-
 const data = require('../../assets/data_portafolio.json');
 
 const Portafolio = (props) => {

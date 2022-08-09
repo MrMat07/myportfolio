@@ -1,42 +1,42 @@
 [
 {
 	"id": "1",
-	"image": "portafolio1",
+	"image": "portafolio/portfolio1.jpg",
 	"title": "Proyecto 1",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"
 },
 {
 	"id": "2",
-	"image": "portafolio2",
+	"image": "portafolio/portfolio2.jpg",
 	"title": "Proyecto 2",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"
 },
 {
 	"id": "3",
-	"image": "portafolio3",
+	"image": "portafolio/portfolio3.jpg",
 	"title": "Proyecto 3",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"
 },
 {
 	"id": "4",
-	"image": "portafolio4",
+	"image": "portafolio/portfolio4.jpg",
 	"title": "Proyecto 4",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"
 },
 {
 	"id": "5",
-	"image": "portafolio5",
+	"image": "portafolio/portfolio5.png",
 	"title": "Proyecto 5",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"
 },
 {
 	"id": "6",
-	"image": "portafolio6",
+	"image": "portafolio/portfolio6.jpg",
 	"title": "Proyecto 6",
 	"github": "https://github.com/MrMat07",
 	"demo": "https://github.com/MrMat07"

@@ -1,0 +1,26 @@
+[
+{
+	"id": "1",
+	"image": "testimonials/avatar1.jpg",
+	"name": "Name Avatar 1",
+	"detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam et at nihil minima praesentium beatae dicta, laboriosam deserunt nobis perferendis cum perspiciatis consequuntur hic? Modi eum a ea tempore commodi!"
+},
+{
+	"id": "2",
+	"image": "testimonials/avatar2.jpg",
+	"name": "Name Avatar 2",
+	"detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam et at nihil minima praesentium beatae dicta, laboriosam deserunt nobis perferendis cum perspiciatis consequuntur hic? Modi eum a ea tempore commodi!"
+},
+{
+	"id": "3",
+	"image": "testimonials/avatar3.jpg",
+	"name": "Name Avatar 3",
+	"detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam et at nihil minima praesentium beatae dicta, laboriosam deserunt nobis perferendis cum perspiciatis consequuntur hic? Modi eum a ea tempore commodi!"
+},
+{
+	"id": "4",
+	"image": "testimonials/avatar4.jpg",
+	"name": "Name Avatar 4",
+	"detail": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam et at nihil minima praesentium beatae dicta, laboriosam deserunt nobis perferendis cum perspiciatis consequuntur hic? Modi eum a ea tempore commodi!"
+}
+]
